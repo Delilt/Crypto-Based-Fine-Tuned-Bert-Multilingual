@@ -1,0 +1,70 @@
+LangChain, doğal dil işleme (NLP) projelerinde dil modellerini (LLM) ve diğer araçları bir arada kullanmayı sağlayan bir çerçevedir. LangChain ile çalışarak, özellikle büyük dil modellerini kullanarak metin işleme ve yapay zeka tabanlı uygulamalar geliştirebilirsin. Aşağıda, LangChain’i sıfırdan öğrenip profesyonel düzeye ulaşmanı sağlayacak 1 aylık bir yol haritası sunuyorum:
+
+1. Hafta: Temeller ve LangChain'e Giriş
+İlk hafta LangChain’in temel bileşenlerine odaklanacağız ve Python'daki araçlar ile dil modellerini nasıl kullanabileceğimizi öğreneceğiz.
+
+1. Gün: LangChain Nedir? Uygulama Alanları ve Genel Yapısı
+LangChain’in ne olduğunu, hangi problemleri çözdüğünü ve neler sunabileceğini anlamak.
+2. Gün: Python ve NLP Temelleri (LangChain için gerekenler)
+Python temelleri (fonksiyonlar, veri yapıları) ve NLP'de string işleme (tokenization, stop words).
+3. Gün: Dil Modellerine Giriş: GPT, BERT, ve LLM Kavramları
+Büyük dil modellerini anlamak: GPT ve BERT gibi modellerin işleyiş mantığı.
+4. Gün: OpenAI API ile LangChain Kullanımı
+OpenAI API’sini kullanarak temel dil modeli çağrılarını gerçekleştirmek.
+5. Gün: LangChain Temelleri: Prompt Şablonları ve Tokenization
+LangChain'de prompt oluşturma, formatlama, ve tokenization kavramlarını öğrenmek.
+6. Gün: LangChain ile Tek Basit Bir Model Kullanımı
+LangChain ile temel bir dil modelini (GPT-3 gibi) çalıştırmak ve metin üretmek.
+7. Gün: Uygulama: Metin Tamamlama ve Basit Chatbot Yapma
+2. Hafta: LangChain Bileşenleri ve Gelişmiş Kullanım
+İkinci hafta, LangChain’in daha gelişmiş bileşenleri ile çalışacağız ve model zincirleme gibi kavramları öğreneceğiz.
+
+1. Gün: LangChain'de Zincirler (Chains) ve Kombinasyonları
+Farklı modelleri bir arada zincirleyerek daha karmaşık işlevler oluşturmak.
+2. Gün: Girdi ve Çıktı Şablonlarını Kullanma
+Metin girdisi ve çıktısı üzerinde şablon oluşturma.
+3. Gün: LangChain’de API Entegrasyonu
+LangChain ile harici API'ler kullanarak zenginleştirilmiş sonuçlar elde etmek.
+4. Gün: Bellek (Memory) Kavramı ve Kullanımı
+LangChain'de kontekst takibi ve uzun süreli hafıza kullanımı.
+5. Gün: Agent Kavramı: LangChain ile Akıllı Agentler Geliştirme
+LangChain’in agent yapısını kullanarak otomatik yanıt veren sistemler oluşturmak.
+6. Gün: Çoklu Dil Modellerini Bir Arada Kullanma (Multi-Model Chain)
+Farklı dil modellerini zincirleyerek daha güçlü yapılar oluşturmak.
+7. Gün: Uygulama: Çok Aşamalı Bir Metin İşleme Sistemi Oluşturma
+3. Hafta: İleri Düzey LangChain Özellikleri ve Uygulamaları
+Üçüncü hafta, LangChain’in ileri düzey özellikleri ile büyük projeler geliştireceğiz.
+
+1. Gün: Doküman Tabanlı Sorgulama (Document Question Answering)
+LangChain ile büyük dokümanlara dayalı soru-cevap sistemleri oluşturma.
+2. Gün: Özel Model Eğitimi ve Özelleştirme
+OpenAI veya başka bir dil modeli üzerinde LangChain kullanarak özel modelleri incelemek.
+3. Gün: LangChain ile Hafıza ve Geri Çağırma (Memory and Retrieval) Teknikleri
+LangChain'in hafıza yönetimi özellikleri ile uzun diyaloglar üzerinde çalışma.
+4. Gün: LangChain ile Akış Tabanlı Metin Analizi ve Özetleme
+Uzun metinleri parçalar halinde analiz etme ve özetleme tekniklerini öğrenmek.
+5. Gün: Veriye Dayalı Dil Modellemesi (LangChain + Veri Tabanı Entegrasyonu)
+Dil modelini veritabanları ile entegre ederek veri odaklı projeler oluşturmak.
+6. Gün: Soru Cevap Botu Geliştirme (Custom Q&A Bot)
+LangChain kullanarak dinamik bir soru cevap sistemi oluşturma.
+7. Gün: Uygulama: Dokümanlara Dayalı Bir Soru-Cevap Sistemi Oluşturma
+4. Hafta: Projeler ve Gerçek Dünya Uygulamaları
+Bu hafta LangChain'i profesyonel projelere uygulayarak becerilerini geliştireceksin.
+
+1. Gün: LangChain ve Web Scraping
+LangChain ile veri toplamak ve otomatik web scraping işlemleri yapmak.
+2. Gün: LangChain ile ChatGPT Clone Oluşturma
+LangChain kullanarak OpenAI API’si ile bir ChatGPT benzeri model oluşturmak.
+3. Gün: Veri ile Etkileşimli Agent Geliştirme (LangChain + API)
+LangChain ile verilerle etkileşim kuran bir agent tasarlamak.
+4. Gün: LangChain ile Akış Tabanlı NLP Projesi
+Birden fazla metin işleme aşaması içeren bir akış yapısı kurmak.
+5. Gün: LangChain ile Otomatik Raporlama Sistemi Geliştirme
+LangChain ile otomatik metin raporları oluşturan bir sistem geliştirme.
+6. Gün: LangChain ile Proje Optimizasyonu ve Performans İyileştirmeleri
+Zincir performansını optimize etme ve verimli çalıştırma yöntemleri.
+7. Gün: Proje: Kendi LangChain Tabanlı Uygulamanı Geliştir
+Ekstra Tavsiyeler:
+Dokümantasyon ve Forumlar: LangChain’in resmi dökümantasyonunu okuyarak kavramları pekiştirebilir, GitHub ve LangChain topluluğundan projeler hakkında fikir alabilirsin.
+Kaggle ve Hugging Face: Proje ve veri setlerini buradan indirip LangChain ile uygulamalar geliştirebilirsin.
+Projeler: LangChain ile çeşitli chatbotlar, otomatik raporlama sistemleri veya doküman tabanlı sorgu sistemleri gibi projeler geliştirerek öğrendiklerini pekiştirebilirsin.
